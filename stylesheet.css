@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 50px;
+  background-color: black;
+}
+
+header p {
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: larger;
+}
+
+main {
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.text_1 {
+  display: block;
+  margin-bottom: 10%;
+}
+
+.text_1 img {
+  height: 50%;
+  width: 50%;
+  background-size: cover;
+}
+
+.text_2 {
+  display: block;
+}
+
+footer {
+  height: 50px;
+  background-color: black;
+}
